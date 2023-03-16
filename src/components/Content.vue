@@ -1,14 +1,10 @@
 <template>
     <div> 
-      我是根组件
-      <Content></Content>
+        111
     </div>
 </template>
 <script>
-import Content from './components/Content.vue';
 export default {
-  components: { Content },
-  
    data() {
       return {
       }
